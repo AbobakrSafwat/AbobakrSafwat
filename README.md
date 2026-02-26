@@ -23,24 +23,24 @@ I know my way around Java, Python, and SQL, and I'm actively expanding my toolki
 ---
 ## 🤝 Catch Me Online
 <p align="center">
-<a href="https://www.linkedin.com/in/abobakrms"><img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-<a href="mailto:abobakrms.rm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" />
-<a href="https://github.com/Abobakrms"><img src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://www.linkedin.com/in/abobakrms"><img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<a href="mailto:abobakrms.rm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<a href="https://github.com/Abobakrms"><img src="https://skillicons.dev/icons?i=github" height="50" />
 </p>
 
 ---
 ## 🏗️ The Engineering Toolbox
 #### 💻 Software & Data 
 <p align="center">
-<img src="https://th.bing.com/th/id/R.aa9268c2f03767c62454ac45d5459cd7?rik=vZmmENhShEgOqA&pid=ImgRaw&r=0" height="40" />
-<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height ="50" />
-<img src="https://logodix.com/logo/542147.png" height ="40"/>
+<img src="https://th.bing.com/th/id/R.aa9268c2f03767c62454ac45d5459cd7?rik=vZmmENhShEgOqA&pid=ImgRaw&r=0" height="50" />
+<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height ="60" />
+<img src="https://logodix.com/logo/542147.png" height ="50"/>
 </p>
 
 #### ⚙️ Mechanical & Domain Expertise
 <p align="center">
-<img src="https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-6/340076686_594975785904369_2474232304390438263_n.png?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=kffaKvIpjucQ7kNvwE7EpRY&_nc_oc=AdlpEAN016TvuW7UvkbqOh1ISmpw5gm3FwTIJoQcUbDLzZwfGjuaLpvpgYwAJjjbD28&_nc_zt=23&_nc_ht=scontent.fcai21-3.fna&_nc_gid=rz25VC56KoWzclpkjIqj-g&oh=00_Afs2SBmGajrTYBLJEtI44_v4WVsDozh4Kq0L3RbYMrNT1Q&oe=69A56403" height="40" />
-<img src="https://drive.google.com/file/d/1SB-wMsPRx7LR5SeQkHp-vtSOqp92AMXj/view?usp=sharing" height="40"/>
+<img src="https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-6/340076686_594975785904369_2474232304390438263_n.png?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=kffaKvIpjucQ7kNvwE7EpRY&_nc_oc=AdlpEAN016TvuW7UvkbqOh1ISmpw5gm3FwTIJoQcUbDLzZwfGjuaLpvpgYwAJjjbD28&_nc_zt=23&_nc_ht=scontent.fcai21-3.fna&_nc_gid=rz25VC56KoWzclpkjIqj-g&oh=00_Afs2SBmGajrTYBLJEtI44_v4WVsDozh4Kq0L3RbYMrNT1Q&oe=69A56403" height="60" />
+<img src="https://i.postimg.cc/bNgjg9zH/Draven-202400.png" height="60"/>
 
 </p>
 <h3>🌊 Why hire an ROV Engineer for Data?</h3> 
@@ -51,5 +51,5 @@ I know my way around Java, Python, and SQL, and I'm actively expanding my toolki
 
 <b>Telemetry & Sensors: </b>I understand the physical reality of how data is generated in the real world before it ever hits a database.
 
-⭐️ Currently open to opportunities in Data Engineering, Backend Development, and System Architecture.
+⭐️ <b>Currently open to opportunities in Data Engineering, Backend Development, and System Architecture.</b>
 </p>
