@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Mechanical Engineer • Data Engineering Padawan • Java & Python Developer
+Mechanical Engineer • Data Engineer • Java & Python Developer
 </p>
 
 
