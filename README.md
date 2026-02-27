@@ -6,9 +6,6 @@
 Mechanical Engineer • Data Engineering Padawan • Java & Python Developer
 </p>
 
-<p align="center">
-“I build underwater robots that are supposed to sink, and data pipelines that absolutely shouldn't.” 😄
-</p>
 
 ---
 ## 🕵️ About Me
