@@ -15,7 +15,7 @@ Somewhere between designing pressure-resistant hardware and writing Object-Orien
 
 I know my way around Java, Python, and SQL, and I'm actively expanding my toolkit to architect reliable, scalable data systems. If I can engineer a machine to survive the crushing pressure of the ocean, I can definitely handle complex data transformations!
 
-📄 **Resume:** [View PDF](https://drive.google.com/file/d/1byd0jVKlD5gXtpiAUizVRPpoef9yCKgl/view?usp=sharing)
+📄 **Resume:** [View PDF](https://drive.google.com/file/d/1tVsc7rAOHEUYNeC_1zQ_5haLjCCsMqJd/view?usp=sharing)
 
 ---
 ## 🤝 Catch Me Online
